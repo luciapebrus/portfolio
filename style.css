@@ -1,0 +1,85 @@
+body{
+    background-image: url(alicia.png);
+    background-color: rgb(255, 155, 119);
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    font-weight: bolder;
+}
+h1{
+    font-weight: bolder;
+    letter-spacing: 15px;
+    padding-top: 10px;   
+}
+h1:hover{
+    color: rgb(223, 170, 250);
+    letter-spacing: 30px;
+}
+p.principal{
+    letter-spacing: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+h1, p.principal{
+    text-align: center;
+}
+img{
+    width: 200px;
+    height: 200px;
+    flood-color: blue;
+    padding-left: 42%;
+}
+
+img:hover{
+    opacity: 0.6;
+    width: 350px;
+    height: 350px;
+    padding-left: 36.5%;
+}
+#uno{
+    padding-left: 200px;
+}
+h2{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    letter-spacing: 5px;
+}
+h2:hover{
+    color: rgb(99, 255, 99);
+    letter-spacing: 7px;
+}
+#uno{
+    padding: 20px;
+}
+.cero{
+    width: 50%;   
+    padding-bottom: 50px;
+    float: left;
+}
+.cero00{
+    width: 50%;
+    float: right;
+}
+.cero1{
+    float: right;
+    width: 50%;
+    padding-bottom: 20px;
+}
+.cero2{
+    width: 50%;
+    
+    padding-bottom: 20px;
+}
+.arriba{
+    float: unset;
+}
+#perfiles{
+    padding-left: 150px;
+}
+.imagen2{
+    position: absolute;
+    display: none;
+}
+
+    
